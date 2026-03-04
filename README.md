@@ -68,9 +68,8 @@ Ensure code style guidelines are followed and tests pass.
 
 ## 👤 Author  
 **Nihal Akshay Chinta**  
-- GitHub: [@Nihalakshay2004](https://github.com/Nihalakshay2004)  
-- Email: your-email@example.com  
-- LinkedIn: your-linkedIn-profile  
+- GitHub: [@ramamilli]((https://github.com/Rammilli))  
+- Email: ramanchinimilli@gmail.com   
 
 ---
 
