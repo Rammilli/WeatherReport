@@ -1,0 +1,20 @@
+# 🌦️ Weather Report - Power BI Dashboard
+
+This repository contains a **Power BI report (`weather_report.pbix`)** that provides insights into weather conditions and air quality levels.
+
+## 📌 Features
+- Interactive dashboard built in Power BI.
+- Air Quality Index (AQI) visualization with **color-coded categories**:
+  - Good (Green)
+  - Moderate (Yellow)
+  - Poor (Orange)
+  - Unhealthy (Red)
+  - Severe (Purple)
+  - Hazardous (Dark Maroon)
+- Weather trend analysis (temperature, humidity, PM10).
+- Dynamic filtering for exploring different time ranges.
+
+## 🚀 Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<Nihalakshay2004>/Weather-Report-PowerBI.git
