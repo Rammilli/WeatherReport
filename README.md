@@ -68,7 +68,7 @@ Ensure code style guidelines are followed and tests pass.
 
 ## 👤 Author  
 **Raman chinimilli**  
-- GitHub: [@ramamilli]((https://github.com/Rammilli))  
+- GitHub: [@rammilli]((https://github.com/Rammilli))  
 - Email: ramanchinimilli@gmail.com   
 
 ---
