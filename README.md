@@ -13,7 +13,7 @@
 ## 🧮 Installation & Setup  
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Nihalakshay2004/weatherReport.git
+    git clone [https://github.com/Nihalakshay2004/weatherReport.git](https://github.com/Rammilli/WeatherReport)
     cd weatherReport
     ```  
 2. (If using Python) Install dependencies:
